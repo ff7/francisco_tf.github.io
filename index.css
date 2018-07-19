@@ -1,6 +1,6 @@
 body{
     /* background: url(https://images.unsplash.com/photo-1474524955719-b9f87c50ce47?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c83ef66968ed8c6a5c1ac1111ee78c1e&auto=format&fit=crop&w=1052&q=80); */
-    /* background-color: #0c383e; */
+    /* background-color: rgb(44,62,80); */
     /* background-size: cover; */
     font-family: Lato;
     /* background-position: center; */
@@ -16,7 +16,7 @@ html{
 }
 
 nav{
-    /* margin-bottom: 5%; */
+    /* margin-top: 5%; */
 }
 
 hr{
@@ -86,7 +86,6 @@ h3{
 #about{
     background-color: white;
     color: rgb(44,62,80);
-    font-size: 5rem;
     text-align: center;
     padding-bottom: 30%;
     text-transform: uppercase;
@@ -97,6 +96,30 @@ h3{
     text-align: center;
     padding-bottom: 30%;
     text-transform: uppercase;
+}
+
+#cv{
+    background-color: white;
+    color: rgb(44,62,80);
+    text-align: center;
+    padding-bottom: 10%;
+    text-transform: uppercase;
+}
+
+#contacts{
+    background-color: rgb(44,62,80);
+    text-align: center;
+    padding-bottom: 20%;
+    text-transform: uppercase;
+}
+
+#copyright{
+    background-color: rgb(36,50,64);
+    color: white;
+    text-align: center;
+    padding-bottom: 2.5%;
+    padding-top: 2.5%;
+    /* text-transform: uppercase; */
 }
 
 hr.star-primary {
