@@ -109,7 +109,7 @@ h3{
 #contacts{
     background-color: rgb(44,62,80);
     text-align: center;
-    padding-bottom: 10%;
+    padding-bottom: 6%;
     text-transform: uppercase;
 }
 
@@ -144,3 +144,47 @@ hr.star-primary {
   .container2{
       margin-top: 5%;
   }
+
+
+  .btn-social {
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    border: 2px solid white;
+    border-radius: 100%;
+    text-align: center;
+    font-size: 20px;
+    line-height: 45px;
+  }
+
+  .btn-outline {
+    color: white;
+    font-size: 20px;
+    border: solid 2px white;
+    background: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+
+.btn-outline:hover,
+.btn-outline:focus,
+.btn-outline:active,
+.btn-outline.active {
+color: #18BC9C;
+background: white;
+border: solid 2px white;
+}
+
+ul{
+    padding-left: 0;
+}
+
+li{
+    margin-left: 2%;
+    margin-right: 2%;
+    display: inline;
+    list-style-type: none;
+}
+
+.cont{
+    margin-top: 3%;
+}
