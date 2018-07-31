@@ -203,7 +203,7 @@ li{
   .img-thumbnail {
     display: block;
     width: 100%;
-    height: auto;
+    height: 95%;
   }
   
   .overlay {
@@ -242,6 +242,11 @@ li{
     opacity: 0.8;
   }
 
-  #cgra{
-      /* height: 70%; */
+  #cal{
+      /* height: 63.5%; */
+  }
+
+
+  .img-thumbnail2{
+    height: 85%;
   }
