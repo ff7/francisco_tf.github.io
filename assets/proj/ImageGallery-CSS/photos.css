@@ -1,0 +1,15 @@
+h1{
+    font-family: Monaco;
+    text-align: center;
+    font-weight: 400;
+    border-bottom: 3px solid #f1f1f1;
+    margin-left: 20%;
+    margin-right:20%;
+    padding-bottom: 20px;
+}
+
+img{
+    width: 30%;
+    float: left;
+    margin:1.66%;
+}
